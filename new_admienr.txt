@@ -1,0 +1,1 @@
+	as$X)echo"<tr><th><a href='".h(ME)."sequence=".urlencode($X)."'>".h($X)."</a>\n";echo"</table>\n";}echo"<p class='links'><a href='".h(ME)."sequence='>".lang(235)."</a>\n";}if(support("type")){echo"<h3 id='user-types'>".lang(31)."</h3>\n";$Bj=types();if($Bj){echo"<table class='odds'>\n","<thead><tr><th>".lang(191)."</thead>\n";foreach($Bj
