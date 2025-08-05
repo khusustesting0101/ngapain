@@ -1,0 +1,144 @@
+
+    <!DOCTYPE html> <!-- CREATED BY : ClaratZ -->
+    <html lang="id">
+    <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>We Are ParanoidHax!</title>
+    <meta name="description" content="Hacked By ClaratZ | We Are ParanoidHax Indonesian Hacker">
+    <meta property="og:image" content="https://l.top4top.io/p_3498kwi231.jpg">
+    <meta name="keywords" content="ClaratZ, ParanoidHax, Anonymous Indonesia, Indonesia Hacker, Defacer">
+    <link rel="icon" href="https://i.ibb.co.com/0s0hX1R/Indonesian-hacker.jpg" type="image/jpg">
+    <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap" rel="stylesheet">
+
+    <style>
+        * {
+        box-sizing: border-box;
+        }
+
+        html, body {
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        height: 100%;
+        background-color: #000;
+        color: #00ff00;
+        font-family: 'Share Tech Mono', monospace;
+        overflow: hidden;
+        }
+
+        body {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        animation: fadeIn 1.2s ease-in-out;
+        }
+
+        @keyframes fadeIn {
+        from { opacity: 0; transform: translateY(-20px); }
+        to { opacity: 1; transform: translateY(0); }
+        }
+
+        .container {
+        text-align: center;
+        width: 100%;
+        max-width: 800px;
+        padding: 10px 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        height: 95vh;
+        }
+
+        .main-img {
+        width: 100%;
+        max-width: 420px;
+        height: auto;
+        margin: 10px auto 0;
+        border-radius: 8px;
+        }
+
+        h2 {
+        color: red;
+        font-size: 28px;
+        margin: 8px 0;
+        }
+
+        h3 {
+        color: #fff;
+        font-size: 17px;
+        margin: 10px 0;
+        }
+
+        .marquee-text {
+        color: white;
+        font-size: 14px;
+        margin: 0;
+        }
+
+        marquee {
+        margin-top: 5px;
+        }
+
+        footer {
+        margin-bottom: 10px;
+        }
+
+        footer a {
+        color: #00ff00;
+        text-decoration: none;
+        font-size: 15px;
+        }
+
+        footer a:hover {
+        color: #00eb00;
+        }
+
+        footer img {
+        width: 22px;
+        vertical-align: middle;
+        margin-right: 5px;
+        margin-bottom: 3px;
+        }
+
+        audio {
+        display: none;
+        }
+
+        @media (max-width: 600px) {
+        h2 { font-size: 24px; }
+        h3 { font-size: 15px; }
+        .marquee-text { font-size: 12px; }
+        footer a { font-size: 14px; }
+        }
+    </style>
+    </head>
+
+    <body>
+    <div class="container">
+        <img src="https://k.top4top.io/p_3498xduvw1.png"
+        alt="WE ARE PARANOIDHAX" class="main-img" />
+
+        <h2>Hacked By ClaratZ - ParanoidHax</h2>
+        <h3>"Setiap Malam Sistemku Auto-Run Kenangan Tentangmu.💔"</h3>
+
+        <marquee behavior="scroll" direction="left">
+        <p class="marquee-text">
+            My Friends : b1tevuln.py - S1N15T3R - 0xFunzies - Axx6ghost - STYLE04 - ./SupraSec - RendyySec1337 - Kanjut - Doll404 - El Kaye - ./Str3sxSec - BonChodes - Benz1337 - T14RB373T - z-prvthax
+        </p>
+        </marquee>
+
+        <footer>
+        <a href="https://t.me/+r9QY9cKJ3w45MDZl">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Telegram Logo">
+            ParanoidHax Group
+        </a>
+        </footer>
+    </div>
+
+    <!-- Musik otomatis -->
+    <audio autoplay loop>
+        <source src="https://f.top4top.io/m_3498snxl91.mp3" type="audio/mpeg" />
+    </audio>
+    </body>
+    </html>
