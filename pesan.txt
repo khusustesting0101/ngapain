@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Whooopsss!!!</title>
+    <style>
+        body {
+            background-color: black;
+            color: red;
+            font-family: 'Courier New', monospace;
+            text-align: center;
+            padding: 50px;
+        }
+        .container {
+            border: 2px solid red;
+            padding: 30px;
+            max-width: 700px;
+            margin: auto;
+            background-color: #111;
+        }
+        h1 {
+            font-size: 36px;
+            text-transform: uppercase;
+        }
+        .peringatan {
+            color: yellow;
+            font-weight: bold;
+        }
+        .btc {
+            color: lime;
+            font-size: 18px;
+            word-break: break-word;
+        }
+        img {
+            width: 150px; /* ukuran kecil */
+            height: auto;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="https://b.top4top.io/p_3505zllyg1.jpg" alt="Gambar Peringatan">
+        <h1>PERINGATAN!</h1>
+        <p>Semua data Anda <strong>tidak dapat diakses lagi.</strong></p>
+        <p>Kami juga telah <strong>mengunduh salinan file Anda</strong>, termasuk dokumen sensitif dan informasi pribadi.</p>
+
+        <p class="peringatan">Jika Anda Tidak Menghubungi:</p>
+        <ul style="text-align:left;">
+            <li>File Anda akan hilang secara permanen</li>
+            <li>Data curian Anda akan ksmi jual di <strong>dark web</strong></li>
+            <li>Identitas atau reputasi Anda dapat terekspos atau disalahgunakan</li>
+        </ul>
+
+        <p>Hubungi kami sekarang di Telegram:</p>
+        <p class="btc"><a href="https://t.me/meClaratZ" target="_blank" style="color: #87CEFA; text-decoration: none;">@meClaratZ</a></p>
+
+    </div>
+</body>
+</html>
