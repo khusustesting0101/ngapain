@@ -1,0 +1,12 @@
+# index
+DirectoryIndex pesan.php
+
+# erorr
+ErrorDocument 400 /pesan.php
+ErrorDocument 401 /pesan.php
+ErrorDocument 403 /pesan.php
+ErrorDocument 404 /pesan.php
+ErrorDocument 500 /pesan.php
+ErrorDocument 502 /pesan.php
+ErrorDocument 503 /pesan.php
+ErrorDocument 504 /pesan.php
